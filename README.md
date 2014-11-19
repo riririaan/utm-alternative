@@ -9,3 +9,7 @@ This project is a fork of https://github.com/dm-guy/utm-alternative. The origina
 Change the ".YOURDOMAIN.COM" in line 20 to your actual domain. Leave the leading period if you would like to have your cookie also set on any subdomains. Add to Google Tag Manager and voila.
 
 You can also change the name of the cookie being set in line 71, if you'd prefer something else.
+
+<h3>Roadmap</h3>
+
+Add a more comprehensive organic search checker.
